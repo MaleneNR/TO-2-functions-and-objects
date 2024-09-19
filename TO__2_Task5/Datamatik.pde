@@ -6,7 +6,7 @@ Student student2;
 void setup() {
 
   student1 = new Student("Malene", 22, true, "Datamatiker");
-  student2 = new Student("Daniel", 23, false, "Datamatiker");
+  student2 = new Student("Daniel", 31, false, "Datamatiker");
 
   println(student1.name + " and " + student2.name + " are the name of the students.");
   
